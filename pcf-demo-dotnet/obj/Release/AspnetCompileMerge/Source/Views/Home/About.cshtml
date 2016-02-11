@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<div style='float:left; width:40%'>
+    <h2>Description</h2>
+    <p>
+        Simple DotNet.Highcharts application with fixed-frequency updates. <br/>
+    </p>
+    <p>
+        The application index and ip:port are shown in the lower-left corner. 
+        This is useful as it illustrates round-robin scheduling in a single view.
+        The "Kill App" button (also lower-left) will kill an application instance. 
+        If multiple instances are deployed, the application index update will reflect 
+        only the remaining instances in round-robin fashion.  Once the killed instances 
+        are restarted, all instances will be seen in the update.
+    </p>
+    <p>
+        The "Environment" view will display all environment variables. 
+        Note that any bound services are shown in the VCAP_SERVICES segment.
+    </p>
+    <p>
+        A demo ups is bound only to show the binding in VCAP_SERVICES. 
+    </p>
+    <p>
+        Open several clients to drive monitoring and auto-scaling.  
+    </p>
+</div>
+
+<div style='float:left; width:30%; margin-left:30px'>
+
+</div>
