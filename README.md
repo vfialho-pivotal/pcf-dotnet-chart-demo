@@ -38,7 +38,7 @@ https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
 #### Artifactory
 - localhost:8081
   * Default creds: admin/password
-- Create Local (Generic) Repository "cf-demo-repo"
+- Create Local (Generic) Repository "cf-demo-repo" (Admin->Repositories->Local)
 
 ![](./screenshots/artifactory/Artifactory-Repo-1.png)
 ![](./screenshots/artifactory/Artifactory-Repo-2.png)
