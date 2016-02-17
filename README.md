@@ -38,7 +38,12 @@ https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
 #### Artifactory
 - localhost:8081
   * Default creds: admin/password
-- Create Local (Generic) Repository "pivotal" (Admin->Repositories)
+- Create Local (Generic) Repository "cf-demo-repo"
+
+![](./screenshots/artifactory/Artifactory-Repo-1.png)
+![](./screenshots/artifactory/Artifactory-Repo-2.png)
+![](./screenshots/artifactory/Artifactory-Repo-3.png)
+
 - Create User "jenkins" (Admin->Security->Users)
 - Create Permissions "jenkins-cd" (Admin->Security->Permissions)
 - Add User "jenkins" to Permissions "jenkins-cd" (Admin->Security->Permissions->Users) 
