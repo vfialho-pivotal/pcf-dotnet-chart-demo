@@ -34,6 +34,8 @@ https://www.visualstudio.com/news/vs2013-update5-vs
 6) This repo:
 https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
 
-
+#### Setup and Configuration
+#### Jenkins
+#### Artifactory
 
 
