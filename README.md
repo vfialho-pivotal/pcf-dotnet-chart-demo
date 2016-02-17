@@ -33,6 +33,8 @@ https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
 
 #### Setup and Configuration
 #### Jenkins
+- localhost:8080
+
 #### Artifactory
 - localhost:8081
   * Default creds: admin/password
