@@ -7,7 +7,7 @@ This lab is a basic introduction to .Net Continuous Delivery using Jenkins with 
 
 1) Pivotal Cloud Foundry 1.6+
 
-2) Windows 7+ to host Jenkins and Artifactory
+2) Windows 7+ to host Jenkins (and Artifactory)
 
 3) Jenkins for Windows: 
 https://jenkins-ci.org/content/thank-you-downloading-windows-installer/
