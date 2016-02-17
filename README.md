@@ -3,7 +3,7 @@
 
 This lab is a basic introduction to .Net Continuous Delivery using Jenkins with MSBuild, Artifactory and Pivotal Cloud Foundry 1.6+.
 
-What you'll need:
+What you'll need for this lab:
 
 1) Windows 7+
 
