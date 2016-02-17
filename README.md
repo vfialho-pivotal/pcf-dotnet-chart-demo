@@ -38,7 +38,7 @@ https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
   * Default creds: admin/password
 - Create Local (Generic) Repository "pivotal" (Admin->Repositories)
 - Create User "jenkins" (Admin->Security->Users)
-- Create Permissions "jenkins-ci" (Admin->Security->Permissions)
+- Create Permissions "jenkins-cd" (Admin->Security->Permissions)
 - Add User "jenkins" to Permissions "jenkins-ci" (Admin->Security->Permissions->Users) 
   * Select Deploy, Annotate, and Read
 
