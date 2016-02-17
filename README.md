@@ -34,11 +34,14 @@ https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
 #### Setup and Configuration
 #### Jenkins
 #### Artifactory
-- localhost:8081 -- default creds: admin/password
+- localhost:8081
+  * Default creds: admin/password
 - Create Local (Generic) Repository "pivotal" (Admin->Repositories)
-- Create Permissions "jenkins-ci" (Admin->Security->Permissions)
-- Add User "jenkins" to Permissions "jenkins-ci" (Admin->Security->Permissions->Users) -- select Deploy, Annotate, and Read
 - Create User "jenkins" (Admin->Security->Users)
+- Create Permissions "jenkins-ci" (Admin->Security->Permissions)
+- Add User "jenkins" to Permissions "jenkins-ci" (Admin->Security->Permissions->Users) 
+  * Select Deploy, Annotate, and Read
+
 
 
 
