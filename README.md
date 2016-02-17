@@ -23,7 +23,7 @@ http://justinramel.com/2013/01/15/5-minute-setup/
 https://www.jfrog.com/open-source/
 
 - Default creds: admin/password
-- Create a user "Jenkins" (user "Jenkins" has all perms...), pwd "{your-password}", repository "pivotal" 
+- Create a user "Jenkins" (user "Jenkins" has all perms), pwd "{your-password}", repository "pivotal" 
 
 This reference may be helpful:
 https://www.jfrog.com/video/artifactory-1-min-setup/
