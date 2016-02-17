@@ -10,7 +10,7 @@ This lab is a basic introduction to .Net Continuous Delivery using Jenkins with 
 2) Windows 7+ to host Jenkins (and Artifactory)
 
 3) Jenkins for Windows: 
-https://jenkins-ci.org/content/thank-you-downloading-windows-installer/
+- https://jenkins-ci.org/content/thank-you-downloading-windows-installer/
 
 4) The following Jenkins Plugins:
 - Artifactory
@@ -23,17 +23,17 @@ This reference may be helpful:
 - http://justinramel.com/2013/01/15/5-minute-setup/
 
 5) Artifactory:
-https://www.jfrog.com/open-source/
+- https://www.jfrog.com/open-source/
 
 These references may be helpful:
 - https://www.jfrog.com/video/artifactory-1-min-setup/
 - https://www.youtube.com/watch?v=82sWH-5ooS8
 
 6) Visual Studio Community 2013 Update 5:
-https://www.visualstudio.com/news/vs2013-update5-vs
+- https://www.visualstudio.com/news/vs2013-update5-vs
 
 7) Fork this repo:
-https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
+- https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
 
 #### Setup and Configuration
 #### Artifactory
