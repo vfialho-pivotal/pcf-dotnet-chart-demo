@@ -46,8 +46,16 @@ These references may be helpful:
 ![](./screenshots/artifactory/Artifactory-Repo-2.png)
 ![](./screenshots/artifactory/Artifactory-Repo-3.png)
 
+###### Create Permissions "cd-permissions" (Admin->Security->Permissions) and bind to repo "cf-demo-repo"
+
+![](./screenshots/artifactory/Artifactory-Perms-1.png)
+![](./screenshots/artifactory/Artifactory-Perms-2.png)
+![](./screenshots/artifactory/Artifactory-Perms-3.png)
+![](./screenshots/artifactory/Artifactory-Perms-4.png)
+![](./screenshots/artifactory/Artifactory-Perms-5.png)
+
 - Create User "jenkins" (Admin->Security->Users)
-- Create Permissions "jenkins-cd" (Admin->Security->Permissions)
+
 - Add User "jenkins" to Permissions "jenkins-cd" (Admin->Security->Permissions->Users) 
   * Select Deploy, Annotate, and Read
 
