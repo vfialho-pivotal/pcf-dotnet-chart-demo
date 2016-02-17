@@ -1,5 +1,5 @@
 # pcf-dotnet-chart-demo
-## .Net Continuous Delivery Lab with Jenkins and Artifactory
+### .Net Continuous Delivery Lab with Jenkins, MSBuild, and Artifactory
 
 This lab is a basic introduction to .Net Continuous Delivery using Jenkins with MSBuild, Artifactory and Pivotal Cloud Foundry 1.6+.
 
