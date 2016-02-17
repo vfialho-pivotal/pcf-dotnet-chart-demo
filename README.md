@@ -20,13 +20,14 @@ https://jenkins-ci.org/content/thank-you-downloading-windows-installer/
 - Mask Passwords
 
 This reference may be helpful: 
-http://justinramel.com/2013/01/15/5-minute-setup/
+- http://justinramel.com/2013/01/15/5-minute-setup/
 
 5) Artifactory:
 https://www.jfrog.com/open-source/
 
-This reference may be helpful:
-https://www.jfrog.com/video/artifactory-1-min-setup/
+These references may be helpful:
+- https://www.jfrog.com/video/artifactory-1-min-setup/
+- https://www.youtube.com/watch?v=82sWH-5ooS8
 
 6) Visual Studio Community 2013 Update 5:
 https://www.visualstudio.com/news/vs2013-update5-vs
