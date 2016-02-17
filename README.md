@@ -35,9 +35,6 @@ https://www.visualstudio.com/news/vs2013-update5-vs
 https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
 
 #### Setup and Configuration
-#### Jenkins
-- localhost:8080
-
 #### Artifactory
 - localhost:8081
   * Default creds: admin/password
@@ -46,6 +43,10 @@ https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
 - Create Permissions "jenkins-cd" (Admin->Security->Permissions)
 - Add User "jenkins" to Permissions "jenkins-cd" (Admin->Security->Permissions->Users) 
   * Select Deploy, Annotate, and Read
+
+#### Jenkins
+- localhost:8080
+
 
 
 
