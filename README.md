@@ -4,7 +4,7 @@
 This lab is a basic introduction to .Net Continuous Delivery using Jenkins with MSBuild, Artifactory and Pivotal Cloud Foundry.
 
 #### What you'll need for this lab:
-
+```
 1) Pivotal Cloud Foundry 1.6+
 
 2) Windows 7+ to host Jenkins (and Artifactory)
@@ -34,7 +34,7 @@ These references may be helpful:
 
 7) Fork this repo:
 - https://github.com/jjewett-pivotal/pcf-dotnet-chart-demo.git
-
+```
 #### Setup and Configuration
 #### Artifactory
 - localhost:8081
