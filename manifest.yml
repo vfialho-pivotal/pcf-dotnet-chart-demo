@@ -1,8 +1,0 @@
-applications:
-- name: jenkins-dotnet
-  memory: 512M
-  instances: 1
-  host: workshop-dotnet-vf-jenkins
-  path: ./DeployFromHere
-  buildpack: binary_buildpack
-  stack: windows2012R2
